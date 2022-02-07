@@ -1,0 +1,20 @@
+{
+  "name": "Guernica",
+  "symbol": "HM",
+  "image": "0.png",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "988E5bdfT9rf2ddadjMd2SDETfXz8stsuLQ1mNTwPtSG",
+        "share": 100
+      }
+    ]
+  }
+}
